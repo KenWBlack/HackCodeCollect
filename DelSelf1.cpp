@@ -1,3 +1,9 @@
+/*
+This code is for educational purposes only. Do not use it for illegal purposes.
+Using MIT license. free and open source, and use it at will.
+All consequences should be borne by the user, not by the author. 
+The final right of interpretation of this statement rests with the author.
+*/
 #include <Windows.h>
 #include <string.h>
 #include <stdlib.h>
@@ -49,6 +55,10 @@ int main()
 }
 //additional information
 /*
-It compiled with Windows10 in VS2017.Anti-virus software is Huorong(https://www.huorong.cn)
+It compiled with Windows10 in VS2017.
+Anti-virus software is 
+Huorong(https://www.huorong.cn) in windows 10 x64
+Can't detected
+360°²È«ÎÀÊ¿£¨http://weishi.360.cn£©in Windows 7 x64
 Can't detected
 */
