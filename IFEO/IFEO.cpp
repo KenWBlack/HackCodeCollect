@@ -42,6 +42,7 @@ int main()
 }
 //Additional Information
 /*
+ * Compiled with VS2017 in Windows 10 x64 platform  
 all anti-virus software detacted!!!
 It seems no useful at all,but it works in some situations.
 Code collected from the Internet

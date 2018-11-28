@@ -1,6 +1,12 @@
 # HackCodeCollect
 collect some hack code from internet including "File Delete"、“Self-deletion”、“IFEO”and so on
 
+All My Project(code) is for education purpose only! 
+
+Never Do Evil！！！
+
+The author is not responsible for any consequences that users and downloaders caused
+
 about author:
 The author is a Chinese university student,who is very insetrested in windows security(may be in Linux later^-^).He is so charming,
 so humour ,diligent and energetic(and still don't have girl friend).
