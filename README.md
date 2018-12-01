@@ -1,7 +1,7 @@
 # HackCodeCollect
 collect some hack code from internet including "File Delete"、“Self-deletion”、“IFEO”and so on
 
-All My Project(code) is for education purpose only! 
+All My Projects(codes) are for education purpose only! 
 
 Never Do Evil！！！
 
